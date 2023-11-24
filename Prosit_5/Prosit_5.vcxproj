@@ -120,12 +120,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CLexplorateur.cpp" />
+    <ClCompile Include="CLimages.cpp" />
+    <ClCompile Include="CLserviceImage.cpp" />
+    <ClCompile Include="CLservicesFichier.cpp" />
     <ClCompile Include="MyForm.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CLexplorateur.h" />
+    <ClInclude Include="CLimages.h" />
+    <ClInclude Include="CLserviceImage.h" />
+    <ClInclude Include="CLservicesFichier.h" />
     <ClInclude Include="MyForm.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MyForm.resx">
+      <DependentUpon>MyForm.h</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

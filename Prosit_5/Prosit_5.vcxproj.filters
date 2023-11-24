@@ -18,9 +18,33 @@
     <ClCompile Include="MyForm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CLexplorateur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLimages.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLservicesFichier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CLserviceImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CLexplorateur.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CLimages.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CLservicesFichier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CLserviceImage.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
