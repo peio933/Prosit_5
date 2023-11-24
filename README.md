@@ -4,7 +4,7 @@ Avant de rédiger le code, il est essentiel de comprendre les exigences des clie
 
 Voici le diagramme de cas d'utilisation qui représente le cas particulier du scénario professionnel (prosit) :
 
-![Diagramme de cas d'utilisation (1)](https://github.com/peio933/Prosit_4/assets/116553253/75ec5831-a690-4e10-b4c5-4b0233804d22)
+![Diagramme de cas d'utilisation (2)](https://github.com/peio933/Prosit_5/assets/116553253/4baab2c4-3e34-4316-b10b-2507f05777c9)
 
 ## 1.2 Diagramme de classes
 
@@ -16,7 +16,7 @@ Avant de créer le diagramme de classe, revenons sur sa structure fondamentale. 
 
 Ci-dessous est exposé le diagramme de classe illustrant le cas spécifique du scénario professionnel (prosit) :
 
-![Classe UML (2)](https://github.com/peio933/Prosit_4/assets/116553253/6bac2036-211b-480b-bf27-fa81980797fd)
+![Classe UML (3)](https://github.com/peio933/Prosit_5/assets/116553253/ca6fe60e-5264-42e1-99ef-5ae58beab349)
 
 ## 1.3 Diagramme de séquence
 
