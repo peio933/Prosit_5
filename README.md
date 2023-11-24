@@ -24,4 +24,4 @@ Vous pouvez voir mon diagramme de séquence, en espérant qu'il soit meilleur qu
 
 ![Diagramme de séquence (1)](https://github.com/peio933/Prosit_4/assets/116553253/73ce6da3-9732-4d08-8217-ac9a3174eeee)
 
-## 1.4 Diagramme d'activité
+## 1.4 Diagramme d'activités
