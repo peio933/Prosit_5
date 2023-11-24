@@ -18,15 +18,7 @@ Ci-dessous est exposé le diagramme de classe illustrant le cas spécifique du s
 
 ![Classe UML (3)](https://github.com/peio933/Prosit_5/assets/116553253/ca6fe60e-5264-42e1-99ef-5ae58beab349)
 
-## 1.3 Diagramme de séquence
-
-Le diagramme de séquence permet de montrer les interactions d'objets dans le cadre d'un scénario d'un diagramme des cas d'utilisation. Dans un souci de simplification, on représente l'acteur principal à gauche du diagramme, et les acteurs secondaires éventuels à droite du système. Le but est de décrire comment se déroulent les interactions entre les acteurs ou objets.
-
-La dimension verticale du diagramme représente le temps, permettant de visualiser l'enchaînement des actions dans le temps, et de spécifier la naissance et la mort d'objets. Les périodes d'activité des objets sont symbolisées par des rectangles, et ces objets dialoguent à l'aide de messages.
-
-![Diagramme de séquence (1)](https://github.com/peio933/Prosit_4/assets/116553253/73ce6da3-9732-4d08-8217-ac9a3174eeee)
-
-## 1.4 Diagramme d'activités
+## 1.3 Diagramme d'activités
 
 Un diagramme d'activité est un organigramme montrant comment une activité mène à une autre. L'action peut être qualifiée d'opération système. Une opération mène à la suivante dans le flux de contrôle. Ce flux peut être parallèle, contemporain ou ramifié. Les diagrammes d'activité utilisent de nombreuses fonctionnalités, telles que la bifurcation, la jointure, etc., pour faire face à tous les types de contrôle de flux. Semblables à d'autres diagrammes, les diagrammes d'activités servent des objectifs fondamentaux similaires. Il capture le comportement dynamique du système.
 
