@@ -77,6 +77,7 @@ namespace Prosit5 {
 		/// </summary>
 		void InitializeComponent(void)
 		{
+			System::ComponentModel::ComponentResourceManager^ resources = (gcnew System::ComponentModel::ComponentResourceManager(MyForm::typeid));
 			this->btn_first = (gcnew System::Windows::Forms::Button());
 			this->btn_previous = (gcnew System::Windows::Forms::Button());
 			this->btn_next = (gcnew System::Windows::Forms::Button());
@@ -98,7 +99,6 @@ namespace Prosit5 {
 			this->fld_destination = (gcnew System::Windows::Forms::FolderBrowserDialog());
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pctBx))->BeginInit();
 			this->gpBox_typeProcessus->SuspendLayout();
-
 			this->SuspendLayout();
 			// 
 // btn_first
@@ -319,7 +319,6 @@ namespace Prosit5 {
 			this->gpBox_typeProcessus->PerformLayout();
 			this->ResumeLayout(false);
 			this->PerformLayout();
-
 
 		}
 #pragma endregion
