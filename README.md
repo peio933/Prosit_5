@@ -16,7 +16,7 @@ Avant de créer le diagramme de classe, revenons sur sa structure fondamentale. 
 
 Ci-dessous est exposé le diagramme de classe illustrant le cas spécifique du scénario professionnel (prosit) :
 
-![Classe UML (3)](https://github.com/peio933/Prosit_5/assets/116553253/e130d9da-acdf-4de9-a4b2-cb9e74854a30)
+![Classe UML (4)](https://github.com/peio933/Prosit_5/assets/116553253/49fcafca-3119-4375-bf2d-41b9f75e0e27)
 
 ## 1.3 Diagramme d'activités
 
